@@ -1,4 +1,4 @@
-package Day05_Concatenation;
+package day05_Concatenation;
 
 public class CarInfo {
 
