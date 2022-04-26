@@ -9,4 +9,8 @@ public final class Tiger extends Animal{
     public void eat(){
         System.out.println(getName() + " eats");
     }
+
+    public void hunts(){
+        System.out.println(getName() + " stabs his claws to the prey's face");
+    }
 }
